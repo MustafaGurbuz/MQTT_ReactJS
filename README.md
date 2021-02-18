@@ -4,7 +4,7 @@ I made an MQTT project Frontend side with using ReactJS. ReactJS is really usefu
 
 ## ReactJS
 
-<img src="public/react.png">
+<img src="public/reactjs.png">
 
 
 # Kullanılan Teknolojiler
